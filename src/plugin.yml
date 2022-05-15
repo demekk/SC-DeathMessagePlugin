@@ -1,0 +1,6 @@
+main: pl.bonzai.death.DeathPlugin
+version: 1.0
+name: SC-DeathMessage
+
+author: bonzai
+description: Plugin stworzony dla ServerCreators
